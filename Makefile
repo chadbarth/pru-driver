@@ -1,5 +1,5 @@
-BUILD_DIR ?= ../xl
-include $(BUILD_DIR)/makefile.d/base.mk
+BUILD_TAG ?= bbb-release
+OUTPUT_DIR = build/$(BUILD_TAG)
 
 ROOTDIR = .
 
