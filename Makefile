@@ -1,5 +1,5 @@
 BUILD_TAG ?= bbb-release
-OUTPUT_DIR = build/$(BUILD_TAG)
+OUTPUT_DIR ?= build/$(BUILD_TAG)
 
 ROOTDIR = .
 
