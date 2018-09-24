@@ -1,5 +1,7 @@
 *.pyc
 
+build
+
 pru_sw/app_loader/interface/debug/
 pru_sw/app_loader/interface/release/
 pru_sw/app_loader/lib/
